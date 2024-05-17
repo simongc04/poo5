@@ -3,3 +3,12 @@ class Tarea:
         self.id = id
         self.tarea = tarea
         self.estado = estado
+
+        def read(self):
+            pass
+
+        def update(self):
+            pass
+
+        def delete(self):
+            pass
