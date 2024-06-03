@@ -9,7 +9,7 @@ class InputApp(App):
         yield Horizontal(
                 Button("Aceptar"),
                 Button("Cancelar"),
-            )
+        )
      
 
 
